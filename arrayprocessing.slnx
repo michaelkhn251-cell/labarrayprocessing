@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="arrayprocessing/arrayprocessing.vcxproj" />
+  <Project Path="arrayprocessing/arrayprocessing.vcxproj" Id="19913c14-9e31-4a71-8154-27a63e8a7a15" />
 </Solution>
